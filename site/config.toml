@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "fr-FR"
-title = "Charles-Edouard Toutain | Consultant IT| WEB ERP CRM |" 
-theme = "kross-hugo"
+title = "Charles-Edouard Toutain | Consultant IT| WEB ERP CRM |"
 summaryLength = "10"
 
 # Plugins
