@@ -1,16 +1,16 @@
 # banner
 banner:
-  title : "Hey! I’m <br> Charles-Edouard Toutain <br> Consultant IT"
+  title : "Hey! I’m <br> Charles-Edouard Toutain <br> Développeur Full-stack"
   socialLinks:
     - icon : "ti-linkedin"
-      URL : "#"
+      URL : "https://www.linkedin.com/in/charles-edouard-toutain/"
       
 
 # about
 about:
   enable : true
-  content : "Bonjour, j'ai 23 ans et je suis Free-lance en tant que consultant IT. Je propose mes services dans la conception de site E-commerce, mais aussi de site vitrine. Avec un background commercial/marketing je me suis orienté
-  vers le métier de développeur. Actuellement je termine mon master de management en projets numériques que j'effectue en alternance dans l'entreprise Subteno IT."
+  content : "Bonjour, j'ai 23 ans et je suis Free-lance en tant que développeur web full stack. Je termine mon master en management de projet numérique que j'effectue en alternance dans l'entreprise subteno-it.
+  Ayant le gout d'entreprendre j'ai monté il y'a 4 ans ma micro entreprise ctinformatique.fr pour proposer mes services dans le développement web, concéption de site et application."
   button:
     btnText : "Vous voulez plus d'informations ?"
     URL : "/about"
@@ -31,7 +31,23 @@ skill:
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "ERP/CRM"
+    - title : "PHP"
+      progress : "50%"
+      color : "#ffbcaa"
+
+    - title : "WordPress"
+      progress : "70%"
+      color : "#fdb157"
+      
+    - title : "Prestashop"
+      progress : "40%"
+      color : "#9473e6"
+      
+    - title : "Dolibarr"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Odoo"
       progress : "50%"
       color : "#ffbcaa"
 
@@ -110,7 +126,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   item:
     - name : "Jesica Gomez"
       image : "images/testimonial/client-1.png"
@@ -129,7 +145,7 @@ testimonial:
 
 # client slider
 clientSlider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "#"
